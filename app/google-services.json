@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "653890544846",
+    "firebase_url": "https://ilegal-b9b07.firebaseio.com",
+    "project_id": "ilegal-b9b07",
+    "storage_bucket": "ilegal-b9b07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653890544846:android:c35c67ea0e8f1ff9",
+        "android_client_info": {
+          "package_name": "com.cs401.ilegal.ilegal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653890544846-bif1t4lmniajfiv9vfqt1rvk1u3f8dvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM9-LlLT5TUxKtIelvbbdSWgM3hVQgj_s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
